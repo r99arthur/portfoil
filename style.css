@@ -9,7 +9,7 @@
     flex-direction: column;
     align-items: center;
     justify-content: space-between;
-    background-image: url(./tudor-baciu-vc3iVL_znJ8-unsplash.jpg);
+    background-image: url(https://github.com/r99arthur/portfoil/blob/midias/tudor-baciu-vc3iVL_znJ8-unsplash.jpg?raw=true);
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -123,7 +123,7 @@ li{
 
 .content-container {
     height: 100vh;
-    background-image: url(./255252.jpg);
+    background-image: url(https://github.com/r99arthur/portfoil/blob/midias/255252.jpg?raw=true);
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
